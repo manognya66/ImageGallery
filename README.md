@@ -39,4 +39,3 @@ Feel free to contribute by adding more car images or enhancing the design.
 License
 
 This project is open source and available under the MIT License
-.
