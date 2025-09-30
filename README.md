@@ -18,7 +18,7 @@ A visually appealing **Image Gallery** showcasing a collection of car images. On
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/ImageGallery.git
-2. Open index.html in your browser.
+2. Open home.html in your browser.
 
 ## Folder Structure
 
