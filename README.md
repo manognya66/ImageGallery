@@ -1,4 +1,4 @@
-Image Gallery
+**Image Gallery
 
 A visually appealing Image Gallery showcasing a collection of car images. On hovering over each image, the name of the car is displayed, providing an interactive and clean user experience.
 
