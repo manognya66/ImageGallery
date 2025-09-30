@@ -1,0 +1,42 @@
+Image Gallery
+
+A visually appealing Image Gallery showcasing a collection of car images. On hovering over each image, the name of the car is displayed, providing an interactive and clean user experience.
+
+Features
+
+Hover effect: Displays car name when hovering over an image.
+
+Responsive design: Works well on different screen sizes.
+
+Simple & lightweight: Built purely with HTML and CSS.
+
+Tech Stack
+
+HTML – For structuring the gallery.
+
+CSS – For styling, hover effects, and responsiveness.
+
+How to Run
+
+Clone the repository:
+
+git clone https://github.com/your-username/ImageGallery.git
+
+
+Open index.html in your browser.
+
+Folder Structure
+ImageGallery/
+│
+├── index.html       # Main HTML file
+├── styles.css       # CSS styles
+└── images/          # Folder containing car images
+
+Contribution
+
+Feel free to contribute by adding more car images or enhancing the design.
+
+License
+
+This project is open source and available under the MIT License
+.
