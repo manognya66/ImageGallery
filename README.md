@@ -30,7 +30,7 @@ ImageGallery/
    - assets/          # Folder containing car images
 
 ## Preview
-
+   https://image-gallery-xeur.vercel.app/
 
 ## Contribution
 
