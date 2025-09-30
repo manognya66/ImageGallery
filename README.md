@@ -26,7 +26,7 @@ ImageGallery/
    - index.html       # Main HTML file
    - index.css       # CSS styles
    - vehicles.html
-   - vehicls.css
+   - vehicels.css
    - assets/          # Folder containing car images
 
 ## Preview
