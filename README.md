@@ -23,10 +23,11 @@ A visually appealing **Image Gallery** showcasing a collection of car images. On
 ## Folder Structure
 
 ImageGallery/
-│
-├── index.html       # Main HTML file
-├── styles.css       # CSS styles
-└── images/          # Folder containing car images
+   - index.html       # Main HTML file
+   - index.css       # CSS styles
+   - vehicles.html
+   - vehicls.css
+   - assets/          # Folder containing car images
 
 ## Preview
 
